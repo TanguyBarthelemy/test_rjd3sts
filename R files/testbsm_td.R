@@ -80,4 +80,4 @@ bsm_td_all<-function(s, contrast = FALSE){
 }
 
 
-bsm_td_all(log(s), T) 
+bsm_td_all(log(s), T)
