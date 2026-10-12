@@ -1,13 +1,13 @@
 Version: 1.0
 ProjectId: 5868b4be-394a-4db4-93b7-50cd95a169ee
 
-RestoreWorkspace: Default
-SaveWorkspace: Default
-AlwaysSaveHistory: Default
+RestoreWorkspace: No
+SaveWorkspace: No
+AlwaysSaveHistory: No
 
 EnableCodeIndexing: Yes
 UseSpacesForTab: Yes
-NumSpacesForTab: 2
+NumSpacesForTab: 4
 Encoding: UTF-8
 
 RnwWeave: knitr
